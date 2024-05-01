@@ -1,0 +1,16 @@
+{
+    "major": 0,
+    "minor": 0,
+    "build": 4,
+    "source_folder": "pulsekit",
+    "module_name": "pulsekit",
+    "package_name": "pulsekit",
+    "author": "author",
+    "author_email": "germanespinosa@gmail.com",
+    "description": "",
+    "install_requires": "",
+    "license_type": "",
+    "url": "",
+    "license_file": "../resources/license.txt",
+    "readme_file": "../resources/README.md"
+}
